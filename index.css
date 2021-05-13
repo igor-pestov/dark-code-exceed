@@ -1,0 +1,40 @@
+body {
+  background-color: #424242;
+  font-family: "Montserrat";
+}
+
+h1,
+h2 {
+  color: #fff;
+  line-height: 10px;
+  text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+  text-shadow: 3px 2px 0px #243a7e, 2px 3px 0px #f35f51;
+  font-size: 6em;
+  line-height: 80px;
+  margin: 0;
+}
+
+span {
+  color: #f35f51;
+}
+
+p {
+  text-align: center;
+  font-size: 1.5em;
+  color: #fff;
+  text-shadow: 1px 1px 1px black;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+}
