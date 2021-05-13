@@ -1,7 +1,18 @@
-Hi, welcome to the Exceed Team Tournament below i will describe what can help you.
+Привет и добро пожаловать в Exceed Team Tournament, ниже я опишу самое важное, чтобы ничего не упустить.
 
-At the bottom right anger you can see 'Go Live', please run it.
+В правом нижнем углу ты видишь 'Go Live', нажми туда.
+Удали весь ненужный код из index.html и index.css.
+Далее выведи этот браузер на второй монитор и забудь о нем, в ближайшие 20 минут он твой враг,
+ведь если ты будешь подсматривать - тебя дисквалифицируют.
 
-After time is over you should to commit your changes and push to the master branch.
+После того как ты услышишь что время вышло - пуш в мастер, твои креды будут на рабочем столе в файле с твоим именем.
 
-here is the link to your APP - https://igor-pestov-dark.netlify.app/
+Ссылка на твой сайт - https://igor-pestov-dark.netlify.app/
+
+Правила
+
+- На каждый макет отведено 20 минут.
+- Запрещается смотреть промежуточный результат до окончания времени.
+- Запрещается сворачивать/закрывать IDE.
+- Запрещается гуглить.
+
